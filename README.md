@@ -1,7 +1,7 @@
 teensy3_qemu
 ============
 
-Changes to QEMU to accomodate the teensy3.x arm platform (Cortex-m4)
+Changes to QEMU to accommodate the teensy3.x arm platform (Cortex-m4)
 
 The 2.0.0 release of QEMU comes close to being useful for emulating
 the teensy-3.x platform, using the lm3s6965evb machine (Stellaris
